@@ -9,7 +9,7 @@ variable "audit_account_id" {}
 
 variable "aft_management_account_id" {}
 
-variable "github_username" {}
+variable "bitbucket_username" {}
 
 variable "ct_home_region" {}
 
